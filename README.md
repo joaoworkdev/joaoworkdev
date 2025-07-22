@@ -38,8 +38,8 @@ Sou recém-formado em Análise e Desenvolvimento de Sistemas (2025) e estou dand
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -47,8 +47,8 @@ Sou recém-formado em Análise e Desenvolvimento de Sistemas (2025) e estou dand
 
 <img
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -56,8 +56,8 @@ Sou recém-formado em Análise e Desenvolvimento de Sistemas (2025) e estou dand
 
 <img
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
@@ -65,8 +65,8 @@ Sou recém-formado em Análise e Desenvolvimento de Sistemas (2025) e estou dand
 
 <img 
     lign="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
